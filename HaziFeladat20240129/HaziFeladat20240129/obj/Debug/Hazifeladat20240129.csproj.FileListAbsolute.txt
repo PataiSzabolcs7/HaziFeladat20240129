@@ -1,0 +1,8 @@
+D:\C#\HaziFeladat20240129\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\C#\HaziFeladat20240129\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\C#\HaziFeladat20240129\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\C#\HaziFeladat20240129\ConsoleApp3\obj\Debug\Hazifeladat20240129.csproj.AssemblyReference.cache
+D:\C#\HaziFeladat20240129\ConsoleApp3\obj\Debug\Hazifeladat20240129.csproj.SuggestedBindingRedirects.cache
+D:\C#\HaziFeladat20240129\ConsoleApp3\obj\Debug\Hazifeladat20240129.csproj.CoreCompileInputs.cache
+D:\C#\HaziFeladat20240129\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\C#\HaziFeladat20240129\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
